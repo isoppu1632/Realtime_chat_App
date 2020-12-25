@@ -1,4 +1,4 @@
-# slack-clone-app
+# Realtime-chat-app
 
 > My phenomenal Nuxt.js project
 
